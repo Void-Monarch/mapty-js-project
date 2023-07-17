@@ -326,3 +326,9 @@ class App {
 }
 
 const app = new App();
+
+const res = document.querySelector('#res');
+res.addEventListener('click', function(e) {
+  e.preventDefault();
+  app.reset();
+});
