@@ -6,6 +6,8 @@ mapty is one of the projects I practiced while learning the concepts of JavaScri
 > - Local storage to store data
 > - Javascript ES6
 
+> - [View Live](https://mapty-pract.netlify.app/)
+
 ### Screenshot : 
 
 ![image](https://github.com/Void-Monarch/mapty-js-project/assets/102967317/4a443704-008b-4faa-914c-e00b47a15484)
