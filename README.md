@@ -7,7 +7,7 @@ mapty is one of the projects I practiced while learning the concepts of JavaScri
 > - Javascript ES6
 
 - [View Live Website](https://mapty-pract.netlify.app/)
-- - Allow Location Access
+  > Allow Location Access
 
 ### Screenshot : 
 
